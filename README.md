@@ -32,5 +32,5 @@
 - 💼 **LinkedIn:** [linkedin.com/in/parchuri-lokesh](https://www.linkedin.com/in/parchuri-lokesh)
 
 ---
-##  - 🎯 Current Goal: Secure a Data Science job by May 2025
-## - ⚡ Fun Fact: I'm a morning person and practice the SAVERS routine every day!
+####  - 🎯 Current Goal: Secure a Data Science job by May 2025
+#### - ⚡ Fun Fact: I'm a morning person and practice the SAVERS routine every day!
