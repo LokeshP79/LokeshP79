@@ -15,14 +15,14 @@
 ---
 
 
-### I am a skilled data analyst with experience in extracting, cleaning, and analyzing large datasets to drive insights and optimize processes. At Tuzen Tech Solutions, I improved data efficiency and reduced customer churn by 18% through predictive models. At TedX-IARE, I enhanced forecasting and engagement, increasing event attendance by 20%. Passionate about solving problems through data-driven strategies.
+#### I am a skilled data analyst with experience in extracting, cleaning, and analyzing large datasets to drive insights and optimize processes. At Tuzen Tech Solutions, I improved data efficiency and reduced customer churn by 18% through predictive models. At TedX-IARE, I enhanced forecasting and engagement, increasing event attendance by 20%. Passionate about solving problems through data-driven strategies.
 
 ---
 
 
-### I worked on an **AI Diagnostic Support for Cardiovascular Conditions** project where I analyzed ECG and PPG bio-signals to develop machine learning models for cardiovascular diagnostics. I implemented classification and regression algorithms, achieving a model accuracy of 68.05%, which helped improve diagnostic support systems.
+#### I worked on an **AI Diagnostic Support for Cardiovascular Conditions** project where I analyzed ECG and PPG bio-signals to develop machine learning models for cardiovascular diagnostics. I implemented classification and regression algorithms, achieving a model accuracy of 68.05%, which helped improve diagnostic support systems.
 
-## Additionally, I developed a **Railway Management System Database** to automate train schedules and bookings using MySQL. By creating optimized SQL queries, including triggers and stored procedures, I was able to enhance system performance by 24% and reduce response times by 2 minutes, streamlining operations significantly.
+#### Additionally, I developed a **Railway Management System Database** to automate train schedules and bookings using MySQL. By creating optimized SQL queries, including triggers and stored procedures, I was able to enhance system performance by 24% and reduce response times by 2 minutes, streamlining operations significantly.
 
 ---
 
